@@ -1,10 +1,10 @@
-# St. Dominic Catholic Church Miami
+# Sample Catholic Church SPA
 
 ## A Single Page React Application
 
 ---
 
-This project is made with much love ❤️ to help St. Dominic Catholic Church reach its members and display relevant/important information to site visitors.
+This project is made with much love ❤️ to help Catholic Churches reach their members and display relevant/important information to site visitors.
 
 ### Background
 

@@ -1,11 +1,11 @@
 {
-  "name": "st-dominic",
-  "description": "A single page react application for St. Dominic Catholic Church",
+  "name": "spa-template",
+  "description": "A single page react application for Catholic Churches",
   "version": "0.1.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hector-hs3/st-dominic.git"
+    "url": "https://github.com/hector-hs3/spa-template.git"
   },
   "scripts": {
     "start": "react-scripts start",
